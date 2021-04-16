@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1618533940 source:c:\users\jashliao\desktop\c_memory _pool\mem_pool.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"mem_pool.h"
+
+1618533788 c:\users\jashliao\desktop\c_memory _pool\mem_pool.h
+
+1618542396 source:c:\users\jashliao\desktop\c_memory _pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mem_pool.h"
+
