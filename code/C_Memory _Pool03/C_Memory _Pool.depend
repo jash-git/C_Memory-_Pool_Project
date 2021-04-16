@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618541358 source:c:\users\jashliao\desktop\c_memory _pool\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"memorypool.h"
+
+1618541030 source:c:\users\jashliao\desktop\c_memory _pool\memorypool.c
+	"memorypool.h"
+
+1618537530 c:\users\jashliao\desktop\c_memory _pool\memorypool.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
